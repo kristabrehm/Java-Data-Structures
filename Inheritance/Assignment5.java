@@ -1,3 +1,5 @@
+import java.io.*;         //to use InputStreamReader and BufferedReader
+
 public class Assignment5 {
     public static void main(String[] args){
         char input;
