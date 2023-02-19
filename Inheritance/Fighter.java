@@ -1,3 +1,5 @@
+import java.text.DecimalFormat;
+
 //the Fighter class inherits from PlayerEntity class and is a child class
 public class Fighter extends PlayerEntity {
 	
