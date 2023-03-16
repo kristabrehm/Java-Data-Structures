@@ -12,3 +12,5 @@ players/heroes in an action role-playing game. The program allows you to enter h
 The object - oriented programming folder contains a short example of using a swicth statement to execute various commands. While short, the .java file uses while and for loops, if, else stataments and mathematical logic.
 
 The JavaFX folder contains a lengthy example of implementing the Graphical User Interface (GUI). The folder contains numerous classes that are used to represent a university's course registration portal. Users are able to add and drop classes freely, as long as all text fields are filled. The example handles all errors and displays the usage of try and catch, as well as error handling and event handling. This project does require JDK 8 or higher to run.
+
+In the Serialization and Algorithims folder, find an interactive project utilizing searching, sorting, the Comparator interface, file reading and writing using BufferReaders, and Serialization and Deserialization.
