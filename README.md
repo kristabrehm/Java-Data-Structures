@@ -14,3 +14,7 @@ The object - oriented programming folder contains a short example of using a swi
 The JavaFX folder contains a lengthy example of implementing the Graphical User Interface (GUI). The folder contains numerous classes that are used to represent a university's course registration portal. Users are able to add and drop classes freely, as long as all text fields are filled. The example handles all errors and displays the usage of try and catch, as well as error handling and event handling. This project does require JDK 8 or higher to run.
 
 In the Serialization and Algorithims folder, find an interactive project utilizing searching, sorting, the Comparator interface, file reading and writing using BufferReaders, and Serialization and Deserialization.
+
+The recursion folder contains a file writing simple mathematical formulas recurisively using a series of if-else statements and base cases.
+
+Linked Lists contains a series of files mimicking a playlist generator. In the file, use 'Assignment9.java' as the test driver file. In the code, users are able to add, remove, iterate through, search, and replace specified songs. 
