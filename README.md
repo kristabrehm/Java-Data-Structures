@@ -1,5 +1,5 @@
 # Java
-Computer Science classes 110 and 205 taught the basics of Java and Object - Oriented Program. In this repository, find assignments regarding inheritance, abstract classes and aggregation, and more.
+CSE 110 and 205 taught the basics of Java, Object - Oriented Programming, and Data Structures. In this repository, find assignments regarding inheritance, abstract classes and aggregation, and more.
 
 In the aggregation folder find an example of 2 classes having an aggregation relationship. Assignment4.java is the test driver. 
 
