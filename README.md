@@ -1,5 +1,5 @@
-# Java & Data Scructures
-CSE 110 and 205 taught the basics of Java, Object - Oriented Programming, and Data Structures. In this repository, find assignments regarding inheritance, abstract classes and aggregation, and data structures.
+# Object Oriented Programming & Data Structures
+In this repository, find assignments regarding inheritance, abstract classes and aggregation, and data structures. Focusing on concepts of problem solving using an object-oriented programming language, algorithm design, structured programming, fundamental algorithms and techniques, and data structures, CSE 110 and CSE 205 challanged coding ability and capability to create unique projects.
 
 Java:
 In the aggregation folder find an example of 2 classes having an aggregation relationship. Assignment4.java is the test driver. 
@@ -11,6 +11,7 @@ In the inheritance folder, find a video game example. Assignment5.java is the te
 players/heroes in an action role-playing game. The program allows you to enter heroes with their characteristics and calculate their combat power.
 
 The JavaFX folder contains a lengthy example of implementing the Graphical User Interface (GUI). The folder contains numerous classes that are used to represent a university's course registration portal. Users are able to add and drop classes freely, as long as all text fields are filled. The example handles all errors and displays the usage of try and catch, as well as error handling and event handling. This project does require JDK 8 or higher to run.
+
 
 Data Structures and Algorithms:
 In the Serialization and Algorithims folder, find an interactive project utilizing searching, sorting, the Comparator interface, file reading and writing using BufferReaders, and Serialization and Deserialization.
